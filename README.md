@@ -43,6 +43,6 @@ Projeto desenvolvido por Kevin Ferreira
 
 ## 🏆 Créditos
 
-Desenvolvedor: Kevin Ferreira
+Desenvolvedor: Kevin Ferreira.
+
 Desafio disponibilizado por Frontend Mentor
-.
